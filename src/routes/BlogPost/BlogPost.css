@@ -1,0 +1,13 @@
+.post {
+    margin-top: 2rem;
+}
+
+.post h2 {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}
+
+.post p {
+    font-size: 1.2rem;
+    max-width: 1000px;
+}

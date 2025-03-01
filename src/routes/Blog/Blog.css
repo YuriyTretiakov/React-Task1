@@ -1,0 +1,40 @@
+/* .blog {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  
+    }
+  
+  .blog h2 {
+    margin-bottom: 2rem;
+  }
+  
+  
+  .list-item li {
+    list-style-type: none;
+    font-weight: 400;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    
+  } */
+   
+
+.main-blog {
+    /* background-color: var(--main-background); */
+    /* padding: 20px 0 20px 0; */
+  
+  
+    margin: 50px;
+    
+  }
+  
+  .blog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .pagin {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }

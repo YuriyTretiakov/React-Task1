@@ -11,22 +11,13 @@ a:hover {
 *{
   box-sizing: border-box;
 }
-
-body {
-  font-family: sans-serif;
+Body{
   margin: 0;
-}
-.light {
-  /* background-color: rgba(var(--background-primary-light), 1); */
-    background-color: rgb(209, 209, 209);
-}
+  font-family: Helvetica, Arial, sans-serif;
+  background: rgb(242, 245, 234);
+  /*display: table;*/
 
-.dark {
-  /* background-color: rgba(var(--background-primary-dark), 1); */
-    background-color: #242424;
 }
-
-
 
 .img{
   display: flex;

@@ -1,0 +1,6 @@
+.footerМenu{
+    width: 60%;
+    display: flex;
+    flex-direction: row-reverse;
+ 
+}
